@@ -84,7 +84,8 @@ Pré-requisitos
         >>> Resultado Final: 0
 
 ## 👨‍💻 Autor
-Desenvolvido por Matheus Costa Santos
-Curso: Ciências da Computação
-Disciplina: Compiladores
-Semestre: 5º Semestre
+
+- **Desenvolvido por:** Matheus Costa Santos
+- **Curso:** Ciências da Computação
+- **Disciplina:** Compiladores
+- **Semestre:** 5º Semestre
