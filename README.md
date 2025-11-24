@@ -53,13 +53,15 @@ DIV,"Desempilha dois valores, divide (inteiro) e empilha o resultado."
 
 ## 💻 Como Executar
 
-Pré-requisitos
-    - Python 3.x instalado.
-    - Nenhuma biblioteca externa é necessária (apenas Standard Library).
+Pré-requisitos:
+- **Python 3.x instalado.**
+- **Nenhuma biblioteca externa é necessária (apenas Standard Library).**
 
 ### Passo a Passo
-    1. Abra o terminal e execute o arquivo principal: python3 main.py
-    2. Exemplo de Saída: Ao executar a expressão (10 + 2) / 4 - 3, o console exibirá:
+    1. Clone o repositório: git clone https://github.com/eumcsantos/compilador-de-expressoes-aritmeticas-simples.git
+    2. Entre na pasta do projeto: cd compilador-de-expressoes-aritmeticas-simples
+    3. Abra o terminal na pasta do projeto e execute o arquivo principal: python3 main.py
+    4. Exemplo de Saída: Ao executar a expressão (10 + 2) / 4 - 3, o console exibirá:
         1. ENTRADA: (10 + 2) / 4 - 3
         2. PARSER: Árvore Sintática (AST) construída com sucesso.
 
