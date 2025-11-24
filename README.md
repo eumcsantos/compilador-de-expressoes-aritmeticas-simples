@@ -37,6 +37,7 @@ ADD,"Desempilha dois valores, soma e empilha o resultado."
 SUB,"Desempilha dois valores, subtrai e empilha o resultado."
 MUL,"Desempilha dois valores, multiplica e empilha o resultado."
 DIV,"Desempilha dois valores, divide (inteiro) e empilha o resultado."
+```
 
 ## 📂 Estrutura do Projeto
 
@@ -83,7 +84,6 @@ Pré-requisitos
         >>> Resultado Final: 0
 
 ## 👨‍💻 Autor
-
 Desenvolvido por Matheus Costa Santos
 Curso: Ciências da Computação
 Disciplina: Compiladores
