@@ -41,6 +41,7 @@ DIV,"Desempilha dois valores, divide (inteiro) e empilha o resultado."
 
 ## 📂 Estrutura do Projeto
 
+```text
 /
 ├── lexer.py           # Definição de Tokens e Análise Léxica
 ├── parser.py          # Definição da AST e Análise Sintática
@@ -48,6 +49,7 @@ DIV,"Desempilha dois valores, divide (inteiro) e empilha o resultado."
 ├── virtualMachine.py  # Execução do código Assembly
 ├── main.py            # Ponto de entrada (Driver Code)
 └── README.md          # Documentação
+```
 
 ## 💻 Como Executar
 
